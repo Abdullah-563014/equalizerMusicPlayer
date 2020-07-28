@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">Le taux de 5 étoiles</string>
+	<string name="good_5_stars">Bon, 5 étoiles</string>
+	<string name="not_good">Pas bon</string>
+	<string name="remind_later">Rappeler plus tard</string>
+	<string name="rate_msg">Je suis un programmeur qui travaille très dur pour vous donner la meilleure application gratuite. Votre 5 étoiles d\'examen vaut plus que tout l\'argent. S\'il vous plaît écrire une belle revue dans Google Play pour m\'encourager.</string>
+</resources>

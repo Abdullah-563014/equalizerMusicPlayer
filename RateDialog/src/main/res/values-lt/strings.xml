@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">Norma-5 žvaigždės</string>
+	<string name="good_5_stars">Geras, 5 stars</string>
+	<string name="not_good">Ne geras</string>
+	<string name="remind_later">Priminti vėliau</string>
+	<string name="rate_msg">Aš esu programuotojas labai sunkiai dirbti, siekiant suteikti jums geriausias, nemokama programa. Savo 5-žvaigždučių apžvalga yra vertas daugiau nei visi pinigai. Prašome parašyti gražus apžvalga "Google Play", norėdami paskatinti mane.</string>
+</resources>

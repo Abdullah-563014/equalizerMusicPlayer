@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">Likme 5 zvaigznes</string>
+	<string name="good_5_stars">Labi, 5 zvaigznes</string>
+	<string name="not_good">Nav labi</string>
+	<string name="remind_later">Atgādiniet vēlāk</string>
+	<string name="rate_msg">Es esmu programmētājs, kas strādā ļoti grūti, lai dotu jums labāko bezmaksas programma. Jūsu 5-zvaigžņu pārskats ir vairāk vērts, nekā visa nauda. Lūdzu, ierakstiet jauka pārskats Google Play, lai iedrošina mani.</string>
+</resources>

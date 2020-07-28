@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">Оценка от 5 звезди</string>
+	<string name="good_5_stars">Добър, 5 звезди</string>
+	<string name="not_good">Не е добре</string>
+	<string name="remind_later">Напомни ми по-късно</string>
+	<string name="rate_msg">Аз съм програмист, много трудно се работи, за да Ви даде най-добрите безплатни приложения. Вашият 5-звезден съвет струва повече от всички пари. Моля, пишете на добър отзив в Google Play, за да насърчи ме.</string>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" android:layout_height="match_parent" android:layout_width="match_parent">
+    <item>
+        <shape android:shape="rectangle" >
+            <gradient
+                android:angle="45"
+                android:endColor="@color/colorPrimary"
+                android:startColor="@color/windowBackground" />
+        </shape>
+    </item>
+
+    <!-- Set the Background Image-->
+    <item android:gravity="center"
+        android:width="100dp"
+        android:height="100dp">
+        <vector xmlns:android="http://schemas.android.com/apk/res/android"
+            android:width="100dp"
+            android:height="100dp"
+            android:viewportHeight="144"
+            android:viewportWidth="144">
+            <path
+                android:fillColor="@color/colorAccent"
+                android:pathData="m120 60h0v20h-6v-20z" />
+            <path
+                android:fillColor="@color/colorAccent"
+                android:pathData="m100 40h5v60h-6v-60z" />
+            <path
+                android:fillColor="@color/colorAccent"
+                android:pathData="m80 23h10v98h-6v-98z" />
+            <path
+                android:fillColor="@color/colorAccent"
+                android:pathData="m60 31h15v80h-6v-80z" />
+            <path
+                android:fillColor="@color/colorAccent"
+                android:pathData="m40 50h20v40h-6v-40z" />
+            <path
+                android:fillColor="@color/colorAccent"
+                android:pathData="m20 45h25v50h-6v-50z" />
+            <path
+                android:fillColor="@color/colorAccent"
+                android:pathData="m0 60h30v20h-6v-20z" />
+        </vector>
+    </item>
+</layer-list>

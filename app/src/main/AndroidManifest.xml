@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="power.audio.pro.music.player">
+
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission
+        android:name="android.permission.WRITE_SETTINGS"
+        tools:ignore="ProtectedPermissions" />
+
+    <application
+        android:name="power.audio.pro.music.player.MainApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="AllowBackup,GoogleAppIndexingWarning">
+        <uses-library android:name="org.apache.http.legacy" android:required="false"/>
+        <activity android:name="power.audio.pro.music.player.activity.SelectThemeActivity"></activity>
+        <activity
+            android:name="power.audio.pro.music.player.activity.ActivityEqualizer"/>
+        <activity
+            android:name="power.audio.pro.music.player.activity.SplashActivity"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="power.audio.pro.music.player.activity.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="power.audio.pro.music.player.activity.AlbumActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="power.audio.pro.music.player.activity.ArtistActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="power.audio.pro.music.player.activity.FolderActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="power.audio.pro.music.player.activity.GenreActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="power.audio.pro.music.player.activity.PlaylistActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="power.audio.pro.music.player.activity.PlayingQueueActivity"
+            android:label="@string/playing_queue"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="power.audio.pro.music.player.activity.PlayerActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.Player" />
+
+        <activity
+            android:name="power.audio.pro.music.player.ringtoneCutter.RingdroidEditActivity"
+            android:theme="@style/AppTheme"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize"
+            android:hardwareAccelerated="true">
+        </activity>
+
+        <service android:name="power.audio.pro.music.player.service.PlayerService" />
+
+        <receiver android:name="power.audio.pro.music.player.service.PlayerService$RemoteReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.MEDIA_BUTTON" />
+            </intent-filter>
+        </receiver>
+
+    </application>
+
+</manifest>

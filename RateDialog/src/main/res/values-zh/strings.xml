@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">评价5星</string>
+	<string name="good_5_stars">好，5星</string>
+	<string name="not_good">不好的</string>
+	<string name="remind_later">提醒后</string>
+	<string name="rate_msg">我是个程序员的工作非常难以给你最好的免费的应用程序。 你的5星级的评价值超过所有的钱。 请写一个很好的审查在谷歌玩鼓励我。</string>
+</resources>

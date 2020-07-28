@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">Інші додатки</string>
+    <string name="title_exit">Ви хочете вийти зараз?</string>
+    <string name="yes">Так</string>
+    <string name="no">Немає</string>
+</resources>

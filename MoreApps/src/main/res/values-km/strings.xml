@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">កម្មវិធីច្រើនទៀត</string>
+    <string name="title_exit">តើអ្នកចង់ចេញឥឡូវឬ?</string>
+    <string name="yes">ចាស</string>
+    <string name="no">គ្មាន</string>
+</resources>

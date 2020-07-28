@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">አንድ 5.</string>
+	<string name="good_5_stars">አዳዲስ ግምገማዎች, 5.</string>
+	<string name="not_good">ደረጃ</string>
+	<string name="remind_later">መገለጫዎ.</string>
+	<string name="rate_msg">አዳዲስ ግምገማዎች በይፋ ቅድሚያ የሚሰጡዋቸውን አዳዲስ ግምገማዎች በይፋ ስለጀመሩ ቅድሚያ. የእርስዎን 5 -. ነው በቀዳሚ ግምገማዎች ላይ ያለው ስምዎ አሁን ሁሉም. አዳዲስ ግምገማዎች በይፋ አዳዲስ ግምገማዎች ላይ ያሉ መተግበሪያዎች ለማበረታታት.</string>
+</resources>

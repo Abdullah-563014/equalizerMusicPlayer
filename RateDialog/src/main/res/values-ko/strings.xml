@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">별 5 개 평가</string>
+	<string name="good_5_stars">좋은 5stars</string>
+	<string name="not_good">좋지 않은</string>
+	<string name="remind_later">나중</string>
+	<string name="rate_msg">나는 프로그래머 매우 열심히 노력하고 당신은 무료 응용 프로그램입니다. 5 성급 검토보다 더 가치가 있는 모든 돈이다. 를 작성하시기 바랍 좋은 구글 플레이에 리뷰는 저를 격려합니다.</string>
+</resources>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ll_ads_player"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:orientation="vertical">
+
+    <power.audio.pro.music.player.widget.CustomProgressBar
+        android:id="@+id/custom_progress_bar"
+        android:layout_width="match_parent"
+        android:layout_height="4dp"
+        app:disabledProgressColor="@android:color/transparent"
+        app:progressColor="@color/progressColor" />
+
+    <RelativeLayout
+        android:id="@+id/bottom_player"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bottom_player_bg"
+        android:visibility="gone"
+        tools:visibility="visible">
+
+        <ImageView
+            android:id="@+id/img_song_thumb"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_margin="10dp"
+            android:contentDescription="@null"
+            android:scaleType="fitCenter"
+            android:src="@drawable/default_song_cover" />
+
+        <ImageButton
+            android:id="@+id/btn_next"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="@dimen/small_margin"
+            android:layout_marginRight="@dimen/small_margin"
+            android:background="?selectableItemBackgroundBorderless"
+            android:contentDescription="@null"
+            android:scaleType="fitCenter"
+            app:srcCompat="@drawable/btn_next" />
+
+        <ImageButton
+            android:id="@+id/btn_play_pause"
+            android:layout_width="46dp"
+            android:layout_height="46dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_toLeftOf="@id/btn_next"
+            android:layout_toStartOf="@id/btn_next"
+            android:background="?selectableItemBackgroundBorderless"
+            android:contentDescription="@null"
+            android:scaleType="fitCenter"
+            app:srcCompat="@drawable/btn_play_pause" />
+
+        <ImageButton
+            android:id="@+id/btn_previous"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@id/btn_play_pause"
+            android:layout_toStartOf="@id/btn_play_pause"
+            android:background="?selectableItemBackgroundBorderless"
+            android:contentDescription="@null"
+            android:scaleType="fitCenter"
+            app:srcCompat="@drawable/btn_prev" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_toEndOf="@id/img_song_thumb"
+            android:layout_toLeftOf="@id/btn_previous"
+            android:layout_toRightOf="@id/img_song_thumb"
+            android:layout_toStartOf="@id/btn_previous"
+            android:orientation="vertical">
+
+            <com.nvp.widget.MarqueeTextView
+                android:id="@+id/song_name"
+                style="@style/PrimaryTextStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textColorPrimary"
+                tools:text="Người con gái ta thương" />
+
+            <com.nvp.widget.MarqueeTextView
+                android:id="@+id/song_artist"
+                style="@style/SecondaryTextStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:textColor="@color/textColorPrimary"
+                tools:text="Hà Anh Tuấn" />
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

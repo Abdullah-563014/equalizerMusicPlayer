@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">Értékelje 5 csillag</string>
+	<string name="good_5_stars">Jó, 5 csillag</string>
+	<string name="not_good">Nem jó</string>
+	<string name="remind_later">Emlékeztessen később</string>
+	<string name="rate_msg">Nem vagyok egy programozó nagyon keményen dolgozik, hogy ön a legjobb ingyenes alkalmazás. Az 5 csillagos értékelést többet ér, mint az összes pénzt. Kérjük írja meg a véleményét a a Google Play bátorítani.</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">दर 5 stars</string>
+	<string name="good_5_stars">राम्रो, 5 stars</string>
+	<string name="not_good">छैन राम्रो</string>
+	<string name="remind_later">सम्झना पछि</string>
+	<string name="rate_msg">"म एक प्रोग्रामर छु धेरै गाह्रो काम तपाईं दिन को सबै भन्दा राम्रो मुक्त आवेदन छ । आफ्नो 5-स्टार समीक्षा भन्दा अधिक लायक छ सबै पैसा । कृपया लेख्न एक राम्रो समीक्षा मा गुगल प्ले गर्न प्रोत्साहन मलाई । "</string>
+</resources>

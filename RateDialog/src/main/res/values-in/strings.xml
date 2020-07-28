@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">Rate 5 bintang</string>
+	<string name="good_5_stars">Baik, 5 bintang</string>
+	<string name="not_good">Tidak baik</string>
+	<string name="remind_later">Mengingatkan nanti</string>
+	<string name="rate_msg">Saya adalah seorang programmer yang bekerja sangat keras untuk memberikan yang terbaik aplikasi gratis. Anda ulasan bintang 5 lebih berharga daripada semua uang. Silakan menulis review bagus di Google Play untuk mendorong saya.</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">Түвшин 5 stars</string>
+	<string name="good_5_stars">Сайн, 5 stars</string>
+	<string name="not_good">Сайн биш</string>
+	<string name="remind_later">Сануулах дараа</string>
+	<string name="rate_msg">Би програмист маш шаргуу ажиллаж өгөхийг та шилдэг үнэгүй програм юм. Таны 5-од тойм нь илүү үнэ цэнэтэй бүх мөнгө. Please write сайхан тойм Google-ийн Тоглох дэмжих надад.</string>
+</resources>

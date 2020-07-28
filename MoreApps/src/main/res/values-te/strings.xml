@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">మరిన్ని అనువర్తనాలు</string>
+    <string name="title_exit">మీరు ఇప్పుడు నిష్క్రమించాలనుకుంటున్నారా?</string>
+    <string name="yes">అవును</string>
+    <string name="no">తోబుట్టువుల</string>
+</resources>

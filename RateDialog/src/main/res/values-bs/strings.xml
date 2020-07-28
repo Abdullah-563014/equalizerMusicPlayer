@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">Stopa 5 zvjezdica</string>
+	<string name="good_5_stars">Dobro, 5 zvjezdica</string>
+	<string name="not_good">Nije dobro</string>
+	<string name="remind_later">Podsjeti kasnije</string>
+	<string name="rate_msg">Ja sam programer radimo veoma naporno da ti dam najbolja besplatna prijavu. Tvoj 5 zvezdica pregled vrijedi više od novca. Molim te, napiši lijepo pregled u Google Igrati da me ohrabrivati.</string>
+</resources>

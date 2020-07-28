@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">Nhiều ứng dụng khác</string>
+    <string name="title_exit">Bạn có muốn thoát ngay bây giờ không?</string>
+    <string name="yes">Vâng</string>
+    <string name="no">Không</string>
+</resources>

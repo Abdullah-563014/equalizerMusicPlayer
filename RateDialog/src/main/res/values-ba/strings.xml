@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">5 йондоҙ баһалау</string>
+	<string name="good_5_stars">Яҡшы, 5 йондоҙ</string>
+	<string name="not_good">Яҡшы түгел</string>
+	<string name="remind_later">Һуңыраҡ хәтерләтә</string>
+	<string name="rate_msg">Мин программист булып эшләй бик ауыр, иң яҡшы өҫтәмә һеҙҙең өсөн бушлай бирелә. Һеҙ 5-фекерҙәрҙән тора звездочный күберәк аҡса бөтә. Рәхим итеп, үҙ фекер яҡшы google play / яҙағыҙ, мине дәртләндерә өсөн.</string>
+</resources>

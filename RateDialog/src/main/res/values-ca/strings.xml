@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">Taxa 5 estrelles</string>
+	<string name="good_5_stars">Bé, de 5 estrelles</string>
+	<string name="not_good">No és bo</string>
+	<string name="remind_later">Recordar més tard</string>
+	<string name="rate_msg">Sóc un programador treballant molt dur per donar-li el millor lliure aplicació. El seu 5 estrelles revisió val més que tots els diners. Si us plau, escriviu una bona revisió a Google Play per animar-me.</string>
+</resources>

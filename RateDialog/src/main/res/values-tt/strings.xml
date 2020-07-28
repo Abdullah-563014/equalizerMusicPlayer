@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">Оцените 5 йолдызлар</string>
+	<string name="good_5_stars">Яхшы, 5 йолдызлар</string>
+	<string name="not_good">Түгел, яхшы</string>
+	<string name="remind_later">Соңрак искђртергђ</string>
+	<string name="rate_msg">Мин программист бик авыр эшли бирү өчен, Сезгә яхшы бушлай кушымта. Сезнең 5-звездочный отзыв тора артыграк барысы да акча. Пожалуйста, напишите яхшы отзыв " Google Play өчен бүләкләргә мине.</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">Programu zaidi</string>
+    <string name="title_exit">Je, ungependa kutoka sasa?</string>
+    <string name="yes">Ndiyo</string>
+    <string name="no">Hakuna</string>
+</resources>

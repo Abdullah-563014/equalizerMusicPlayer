@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">Taxa de 5 estrelas</string>
+	<string name="good_5_stars">Bom, de 5 estrelas</string>
+	<string name="not_good">Não é bom</string>
+	<string name="remind_later">Lembrar mais tarde</string>
+	<string name="rate_msg">Eu sou um programador trabalhando muito duro para dar o melhor aplicativo gratuito. O 5-estrelas de revisão vale mais do que todo o dinheiro. Por favor, escreva uma boa revisão no Google Play para me encorajar.</string>
+</resources>

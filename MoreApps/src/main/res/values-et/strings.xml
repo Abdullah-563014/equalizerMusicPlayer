@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">Rohkem rakendusi</string>
+    <string name="title_exit">Kas soovite väljuda?</string>
+    <string name="yes">Jah</string>
+    <string name="no">Ei</string>
+</resources>

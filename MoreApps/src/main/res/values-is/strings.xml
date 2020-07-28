@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">Fleiri forrit</string>
+    <string name="title_exit">Viltu hætta við núna?</string>
+    <string name="yes">Já</string>
+    <string name="no">Engin</string>
+</resources>

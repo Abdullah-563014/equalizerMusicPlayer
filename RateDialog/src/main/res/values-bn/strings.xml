@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">হার 5 বড়</string>
+	<string name="good_5_stars">ভাল, 5 বড়</string>
+	<string name="not_good">ভাল না</string>
+	<string name="remind_later">মনে করিয়ে পরে</string>
+	<string name="rate_msg">আমি একজন প্রোগ্রামার খুব কঠিন কাজ করতে দিতে, আপনি শ্রেষ্ঠ বিনামূল্যে অ্যাপ্লিকেশন. আপনার 5 তারকা পর্যালোচনা বেশী অধিকারী হয়, সব টাকা. দয়া করে, একটা চমৎকার পর্যালোচনা লিখতে গুগল প্লে করতে আমাকে উৎসাহিত.</string>
+</resources>

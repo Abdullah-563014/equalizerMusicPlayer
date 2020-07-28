@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">ပိုများသော applications များ</string>
+    <string name="title_exit">သငျသညျယခုမှထွက်ရန်လိုပါသလား</string>
+    <string name="yes">ဟုတ်ကဲ့</string>
+    <string name="no">အဘယ်သူမျှမ</string>
+</resources>

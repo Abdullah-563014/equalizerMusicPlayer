@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircularSeekBar">
+        <attr name="csb_progress" format="integer" />
+        <attr name="csb_max" format="integer" />
+        <attr name="csb_move_outside_circle" format="boolean" />
+        <attr name="csb_maintain_equal_circle" format="boolean" />
+        <attr name="csb_use_custom_radii" format="boolean" />
+        <attr name="csb_lock_enabled" format="boolean" />
+        <attr name="csb_circle_x_radius" format="dimension" />
+        <attr name="csb_circle_y_radius" format="dimension" />
+        <attr name="csb_circle_stroke_width" format="dimension" />
+        <attr name="csb_pointer_radius" format="dimension" />
+        <attr name="csb_pointer_halo_width" format="dimension" />
+        <attr name="csb_pointer_halo_border_width" format="dimension" />
+        <attr name="csb_circle_color" format="color" />
+        <attr name="csb_circle_progress_color" format="color" />
+        <attr name="csb_pointer_color" format="color" />
+        <attr name="csb_pointer_halo_color" format="color" />
+        <attr name="csb_pointer_halo_color_ontouch" format="color" />
+        <attr name="csb_pointer_alpha_ontouch" format="integer" />
+        <attr name="csb_start_angle" format="float" />
+        <attr name="csb_end_angle" format="float" />
+        <attr name="csb_circle_fill" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="CustomProgressBar">
+        <attr name="progressColor" format="color" />
+        <attr name="disabledProgressColor" format="color" />
+    </declare-styleable>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">Оцените 5 жылдыздардын</string>
+	<string name="good_5_stars">Жакшы, 5 жылдыздардын</string>
+	<string name="not_good">Эмес, жакшы</string>
+	<string name="remind_later">Кийинчерээк эстетуу</string>
+	<string name="rate_msg">Мен программист абдан катуу иштейт үчүн берсин Сизге мыкты акысыз тиркеме. Сиздин 5-звездочный чакыртып турат караганда бардык акчалар. Мейли, жазыңыз жакшы чакыртып в Google Play колдоо үчүн теңдик мени.</string>
+</resources>

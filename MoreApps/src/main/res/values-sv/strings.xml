@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">Fler applikationer</string>
+    <string name="title_exit">Vill du avsluta nu?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nej</string>
+</resources>

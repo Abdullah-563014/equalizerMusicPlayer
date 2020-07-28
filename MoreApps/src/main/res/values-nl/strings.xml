@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">Meer toepassingen</string>
+    <string name="title_exit">Wilt u nu afstappen?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nee</string>
+</resources>

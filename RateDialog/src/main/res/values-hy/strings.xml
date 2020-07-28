@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">Գնահատում է " 5 աստղ</string>
+	<string name="good_5_stars">Լավ, 5 աստղ</string>
+	<string name="not_good">Չէ, լավ է</string>
+	<string name="remind_later">Հիշեցնել ուշ</string>
+	<string name="rate_msg">Ես ծրագրավորող շատ ծանր է աշխատում, տալ Ձեզ լավագույն անվճար ծրագրեր. Ձեր 5-աստղանի արձագանք կա ավելի մեծ է, քան բոլոր փողերը: Խնդրում եմ, գրեք լավ արձագանք Google Play, որ խրախուսել են ինձ.</string>
+</resources>

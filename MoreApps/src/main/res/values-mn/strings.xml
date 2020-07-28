@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">Илүү олон програмууд</string>
+    <string name="title_exit">Та одоо гарахыг хүсч байна уу?</string>
+    <string name="yes">Тийм</string>
+    <string name="no">Ямар ч</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">Mai multe aplicații</string>
+    <string name="title_exit">Vrei să ieși acum?</string>
+    <string name="yes">Da</string>
+    <string name="no">Nu</string>
+</resources>

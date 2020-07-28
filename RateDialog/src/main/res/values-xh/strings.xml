@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">Umyinge 5 iinkwenkwezi</string>
+	<string name="good_5_stars">Ezilungileyo, 5 iinkwenkwezi</string>
+	<string name="not_good">Ukwahlula okulungileyo</string>
+	<string name="remind_later">Remind kamva</string>
+	<string name="rate_msg">Ndingumntu umdwelisi ndisebenza nzima kakhulu ukuba sininike eyona free isicelo. Yakho 5-inkwenkwezi kovavanyo ngu kukunceda kakhulu ngaphezu yonke imali. Nceda bhala i-mnandi kovavanyo kwi-Google Dlala ukukhuthaza kum.</string>
+</resources>

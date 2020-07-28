@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">შეფასება 5 ვარსკვლავები</string>
+	<string name="good_5_stars">კარგი, 5 ვარსკვლავები</string>
+	<string name="not_good">არ არის კარგი</string>
+	<string name="remind_later">შეგახსენებთ, მოგვიანებით</string>
+	<string name="rate_msg">ვარ პროგრამისტი მუშაობს ძალიან ძნელია გადმოგცეთ საუკეთესო უფასო პროგრამა. თქვენი 5-ვარსკვლავიანი მიმოხილვა ღირს უფრო მეტი, ვიდრე ყველა ფული. გთხოვთ, დაწერეთ ლამაზი მიმოხილვა Google Play, ხელი შეუწყოს ჩემთვის.</string>
+</resources>

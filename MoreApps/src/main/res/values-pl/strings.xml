@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">Więcej zastosowań</string>
+    <string name="title_exit">Czy chcesz teraz wyjść?</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+</resources>

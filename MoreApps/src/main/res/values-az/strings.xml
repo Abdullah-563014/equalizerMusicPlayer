@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">Daha applications</string>
+    <string name="title_exit">İndi çıxmaq istəyirsiniz?</string>
+    <string name="yes">Bəli</string>
+    <string name="no">Yox</string>
+</resources>

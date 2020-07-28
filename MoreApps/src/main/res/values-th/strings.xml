@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">แอพพลิเคชันเพิ่มเติม</string>
+    <string name="title_exit">คุณต้องการออกตอนนี้หรือไม่?</string>
+    <string name="yes">ใช่</string>
+    <string name="no">ไม่</string>
+</resources>

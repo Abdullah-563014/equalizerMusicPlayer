@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_app">Rate 5 stars</string>
+    <string name="good_5_stars">Good, 5 stars</string>
+    <string name="not_good">Not good</string>
+    <string name="remind_later">Remind later</string>
+    <string name="rate_msg">I am a programmer working very hard to give you the best free application. Your 5-star review is worth more than all money. Please write a nice review in Google Play to encourage me.</string>
+</resources>

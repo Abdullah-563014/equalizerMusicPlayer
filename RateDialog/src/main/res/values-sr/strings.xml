@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">Молимо вас да Оцените 5 звездица</string>
+	<string name="good_5_stars">Добар, 5 звездица</string>
+	<string name="not_good">Није добро</string>
+	<string name="remind_later">Подсети ме касније</string>
+	<string name="rate_msg">Ја сам програмер веома је тешко да ради, да Вам дају најбоље бесплатне апликације. Ваш 5 звездица преглед вреди више него сав новац. Молимо вас да напишете добар преглед на Гоогле Плаи, да ме охрабри.</string>
+</resources>

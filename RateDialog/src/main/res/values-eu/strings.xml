@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">Tasa 5 izarrak</string>
+	<string name="good_5_stars">Ona, 5 izarrak</string>
+	<string name="not_good">Ez da ona</string>
+	<string name="remind_later">Gogorarazi geroago</string>
+	<string name="rate_msg">Programatzaile bat naiz oso gogor lan onena emateko doako aplikazioa. Zure 5 izarreko iritzia baino gehiago merezi du diru guztia. Mesedez, idatzi iritzia polit bat Google Play sustatu nahi me.</string>
+</resources>

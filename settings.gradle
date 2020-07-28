@@ -1,0 +1,6 @@
+include ':app'
+include ':NvpUtils'
+include ':SmartTabLayout'
+include ':EasyPermissions'
+include ':MoreApps'
+include ':RateDialog'

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">Več aplikacij</string>
+    <string name="title_exit">Želite zapreti?</string>
+    <string name="yes">Da</string>
+    <string name="no">No</string>
+</resources>

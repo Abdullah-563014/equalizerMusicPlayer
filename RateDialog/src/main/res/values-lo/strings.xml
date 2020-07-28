@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">ປາ ໕ ດາວ</string>
+	<string name="good_5_stars">ດີ,໕ ດາວ</string>
+	<string name="not_good">ບໍ່ດີ</string>
+	<string name="remind_later">ເຕືອນຕໍ່ມາ</string>
+	<string name="rate_msg">ຂ້າພະເຈົ້າມີໂຄງການເຮັດວຽກຍາກຫຼາຍທີ່ຈະໃຫ້ທ່ານທີ່ດີທີ່ສຸດຟຣີສະຫມັກ. ຂອງທ່ານດາວ ໕ ທົບທວນເປັນມູນຄ່າຫຼາຍກ່ວາທັງຫມເງິນ. ກະລຸນາຂຽວງາມຄືນຢູ່ໃນກູໂກຫຼິ້ນເພື່ອສົ່ງເສີມການຂ້າພະເຈົ້າ.</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">Votare 5 stelle</string>
+	<string name="good_5_stars">Bene, 5 stelle</string>
+	<string name="not_good">Non buona</string>
+	<string name="remind_later">Ricorda poi</string>
+	<string name="rate_msg">Io sono un programmatore lavorando molto duramente per darvi la migliore applicazione gratuita. La tua recensione da 5 stelle vale più di tutti i soldi. Si prega di scrivere una bella recensione in Google Play per incoraggiarmi.</string>
+</resources>

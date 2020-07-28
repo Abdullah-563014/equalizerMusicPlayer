@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">Izicelo angeziwe</string>
+    <string name="title_exit">Ungathanda ukuphuma manje?</string>
+    <string name="yes">Yebo</string>
+    <string name="no">Azikho</string>
+</resources>

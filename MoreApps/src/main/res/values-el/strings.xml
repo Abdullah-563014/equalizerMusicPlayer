@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">Περισσότερες εφαρμογές</string>
+    <string name="title_exit">Θα θέλατε να βγείτε τώρα;</string>
+    <string name="yes">Ναί</string>
+    <string name="no">Όχι</string>
+</resources>

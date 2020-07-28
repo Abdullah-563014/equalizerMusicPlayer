@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">යෙදුම්</string>
+    <string name="title_exit">ඔබ දැන් පිටවීමට ඔබ කැමතිද?</string>
+    <string name="yes">ඔව්</string>
+    <string name="no">නැත</string>
+</resources>

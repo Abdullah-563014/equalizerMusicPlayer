@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	 <string name="prefs_category_video_settings_title">Video settings</string>
+    <string name="prefs_category_audio_settings_title">Audio settings</string>
+    <string name="prefs_category_timer_title">Timer settings</string>
+    <string name="prefs_category_save_options_title">Save options</string>
+    <string name="prefs_category_recording_settings_title">Recording Settings</string>
+    <string name="preference_category_other">Other</string>
+    <string name="preference_resolution_title">Resolution</string>
+    <string name="preference_fps_title">Frames per second</string>
+    <string name="preference_bit_title">Video Quality</string>
+    <string name="preference_orientation_title">Orientation</string>
+    <string name="preference_audio_record_title">Audio source</string>
+    <string name="preference_countdown_values_title">Countdown value</string>
+    <string name="preference_save_video_location_title">Save video location</string>
+    <string name="preference_save_image_location_title">Save image location</string>
+    <string name="preference_filename_format_title">File name format</string>
+    <string name="preference_filename_prefix_title">File name prefix</string>
+    <string name="storage_permission_request_title">Allow Storage Permission</string>
+    <string name="preference_floating_control_title">Show floating button</string>
+    <string name="preference_hide_floating_control_title">Hide while recording</string>
+    <string name="preference_stop_on_screen_off_title">Stop on screen off</string>
+    <string name="preference_shake_gesture_title">Shake to start/stop recording</string>
+    <string name="shortcut_storage_permission_request_title">Please grant Storage permission before using shortcut</string>
+    <string name="delete_video_alert_title">Delete video ?</string>
+    <string name="delete_image_alert_title">Delete image ?</string>
+    <string name="preference_enable_target_app_title">Enable target app</string>
+    <string name="preference_app_chooser_title">Choose App</string>
+    <string name="preference_faq_title">FAQ</string>
+    <string name="preference_rate_title">Rate us</string>
+    // summary
+    <string name="storage_permission_request_summary">Write permission to storage is required to save the recorded video.</string>
+    <string name="preference_shake_gesture_summary">Shake your device to start or stop recording</string>
+    <string name="preference_countdown_before_start_title">Countdown before start</string>
+    <string name="preference_enable_target_app_summary">Open target app before recording</string>
+    <string name="preference_app_chooser_summary">Choose an app to start by default while recording</string>
+    <string name="preference_faq_summary">Frequently Asked Questions and Answers</string>
+    <string name="preference_rate_summary">Five stars mean best on Google Play</string>
+    //
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="snack_bar_storage_permission_message">Grant storage permission</string>
+    <string name="snack_bar_storage_permission_action_enable">Enable</string>
+    <string name="shortcut_short_label">Record</string>
+    <string name="shortcut_long_label">Quick Record</string>
+    <string name="shortcut_disabled_message">Recording disabled</string>
+    <string name="share_intent_title">Share recorded</string>
+    <string name="share_intent_notification_title">Share recorded video</string>
+    <string name="share_intent_notification_content">Click to open the recorded videos</string>
+    <string name="share_intent_notification_action_text">Share</string>
+    <string name="finish_save_intent_notification_content">Click to open the recorded videos</string>
+    // title fragment home
+    <string name="tab_settings_title">Settings</string>
+    <string name="tab_videos_title">Videos</string>
+    <string name="tab_image_title">Images</string>
+    <string name="tab_editor_title">Editor</string>
+    // msg
+    <string name="msg_screen_recording_permission_denied">Screen Recording Permission Denied</string>
+    <string name="msg_fatal_exception_message">Saving video failed!</string>
+    <string name="msg_recording_failed">Screen recording failed.</string>
+    <string name="msg_another_app_is_recording">Unable to start screen recorder. Other application already recording.</string>
+    <string name="msg_screen_recording_already_active">Screen recording session already active</string>
+    <string name="msg_camera_already_active">Camera already active</string>
+    <string name="msg_screen_recording_started">Screen recording started</string>
+    <string name="msg_screen_recording_stopped">Screen recording stopped</string>
+    <string name="msg_screen_recording_resumed">Screen recording resumed</string>
+    <string name="msg_screen_recording_paused">Screen recording paused</string>
+    <string name="msg_storage_permission_denied">Storage permission denied</string>
+    <string name="msg_video_list_no_video">No videos available</string>
+    <string name="msg_image_list_no_image">No images available</string>
+    <string name="msg_delete_successfully">File deleted successfully!</string>
+    <string name="msg_delete_video">Are you sure you want to delete the video ?</string>
+    <string name="msg_delete_image">Are you sure you want to delete the image ?</string>
+    <string name="msg_screen_recording_waiting_for_gesture">Shake your device to start recording when ready</string>
+    <string name="msg_bitrate_high_warning">Bit rate too high! May not work for all</string>
+    <string name="msg_loading">Loading</string>
+    <string name="msg_video_not_found">Video not found!</string>
+    <string name="msg_root_failed">Acquiring root access failed.</string>
+    <string name="msg_text_failed">Please add text first!</string>
+    <string name="msg_cannot_retrieve_selected_video">Can not retrieve selected video</string>
+    <string name="msg_video_shorter">Video shorter than 3 seconds </string>
+    <string name="msg_save_video_failed">Save video failed</string>
+    <string name="msg_save_mp3_failed">Save mp3 failed</string>
+    <string name="msg_save_compress_failed">Compress failed</string>
+    <string name="msg_take_screenshot_failed">Take screenshot failed</string>
+    <string name="msg_processing">Processing</string>
+    <string name="msg_cancel_process">Please wait while the process is canceled</string>
+    <string name="msg_screen_already_recording">Screen already recording</string>
+    <string name="msg_exit_frame">Are you sure you want to exit? Its will be lost!!!</string>
+    <string name="msg_saving">Saving</string>
+    <string name="msg_changed_during_recoding_session">Cannot be changed during the recording session</string>
+    <string name="msg_cannot_write_to_selected_directory">Cannot write to selected directory. Path will not be saved.</string>
+    <string name="msg_no_directory_selected">No directory selected</string>
+    <string name="msg_no_permission_to_write_to_directory">No permission to write to directory</string>
+    <string name="msg_directory_already_exists">Directory already exists</string>
+    <string name="msg_error_creating_directory">Error creating directory</string>
+    <string name="msg_waiting_for_device_shake">Waiting for device shake</string>
+    <string name="msg_shake_your_device_to_start_recording_or_press_this_notification_to_cancel">Shake your device to start recording or press this notification to cancel</string>
+    <string name="msg_wait_for">Wait for </string>
+    <string name="msg_seconds">seconds</string>
+    <string name="msg_available">available</string>
+    <string name="msg_can_be_recorder">can be recorded</string>
+    <string name="msg_file_limited">File is limited to 4 GB size</string>
+    <string name="msg_stop_recording">Do you want to stop screen recording ?</string>
+    //
+    <string name="alert_title_create_folder">Create Folder</string>
+    <string name="alert_message_create_folder">Enter folder name</string>
+    <string name="alert_permission_denied_title">Storage Permission Denied</string>
+    <string name="alert_permission_denied_message">The app requires storage permission to save the recorded video and change default save directory.The app is rendered useless without the permission\n\nDo you want to grant it now?</string>
+    <string name="edit_intent_notification_action_text">Edit</string>
+    <string name="storage_selection_spinner_title">Select storage</string>
+    <string name="external_storage_dir_not_writable">The directory is not writable</string>
+    <string name="alert_external_storage_warn_cb_text">Do not show again</string>
+    <string name="alert_ext_dir_warning_title">Warning</string>
+    <string name="alert_ext_dir_warning_message">Saving to external directory may not work on all phones. Proceed with caution.</string>
+    <string name="menu_select_all">Select all</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_compress">Compress</string>
+    <string name="quick_settings_default_title">Add screen recorder title</string>
+    <string name="quick_settings_start_title">Start recording</string>
+    <string name="quick_settings_stop_title">Stop recording</string>
+    //
+    <string name="date_today">Today</string>
+    <string name="date_yesterday">Yesterday</string>
+    //
+    <string name="text_edit_image_image">Image</string>
+    <string name="text_edit_image_blend">Blend</string>
+    <string name="text_edit_image_filter">Filter</string>
+    <string name="text_edit_image_b_color">B-Color</string>
+    <string name="text_edit_image_gradient">Gradient</string>
+    <string name="text_edit_image_sticker">Sticker</string>
+    <string name="text_edit_image_text">Text</string>
+    <string name="text_edit_image_flip">Flip</string>
+    <string name="text_edit_image_rotate">Rotate</string>
+    <string name="text_edit_image_crop">Crop</string>
+    <string name="text_edit_image_brush">Brush</string>
+    <string name="text_edit_image_beauty">Beauty</string>
+    // notification
+    <string name="text_notification_running_title">Screen recorder is running</string>
+    <string name="text_notification_count_down_title">Counting down before the screen recorder</string>
+    //
+    <string name="title_crop_image">Crop Image</string>
+    <string name="title_edit_image">Edit Image</string>
+    <string name="title_trim_video">Trim Video</string>
+    <string name="title_convert_video_to_mp3">Video to MP3</string>
+    <string name="title_compress_video">Compress</string>
+    <string name="title_text">Text</string>
+    <string name="title_faq">FAQ</string>
+    <string name="title_share">Share</string>
+    <string name="title_success">Success</string>
+    <string name="text_screen_recording">Screen recording</string>
+    <string name="text_video_saved">Video saved</string>
+    <string name="text_image_saved">Image saved</string>
+    <string name="text_you_are_currently_in_the_root_directory">You are currently in the root directory</string>
+    //
+    <string name="text_save_to_gallery">Save to Gallery</string>
+    <string name="text_share_to">Share to</string>
+    <string name="more">More</string>
+    <string name="text_messenger">Messenger</string>
+    <string name="text_facebook">Facebook</string>
+    <string name="text_instagram">Instagram</string>
+    <string name="text_path">Path:</string>
+    <string name="text_install">Install</string>
+    <string name="text_later">Later</string>
+    <string name="text_rate_5_star">Rate 5 star</string>
+    <string name="title_warning_close_app">Do you want to leave app ?</string>
+    <string name="text_yes">Yes</string>
+    <string name="text_no">No</string>
+    //
+    <string name="share_error">You can not share directly, please go to the album directory to use sharing.</string>
+    <string name="share_with">Share with</string>
+    <string name="text_share_content">I suggest this app for you:</string>
+    <string name="text_main_title_share_app">Share app</string>
+    <string name="title_send_feedback">Tell me something is not correct</string>
+    <string name="mail_feedback_subject">Report an application issue</string>
+    //
+    <string name="text_very_low">(Very low)</string>
+    <string name="text_low">(Low)</string>
+    <string name="text_good">(Good)</string>
+    <string name="text_excellent">(Excellent)</string>
+    <string name="text_warning">(Warning)</string>
+    <string name="text_auto">Auto</string>
+    <string name="text_portrait">Portrait</string>
+    <string name="text_landscape">Landscape</string>
+    // FAQ question
+    <string name="fag_question_1">How to turn on the countdown before start?</string>
+    <string name="fag_question_2">How to record videos screen?</string>
+    <string name="fag_question_3">How to take a screenshot?</string>
+    <string name="fag_question_4">Why does the video have no sound?\nHow to record videos with sound?</string>
+    <string name="fag_question_5">Why is the video blurred?\nHow to record videos in high resolution?</string>
+    <string name="fag_question_6">How to see video storage?</string>
+    <string name="fag_question_7">How to change where to save video?</string>
+    <string name="fag_question_8">Why do so many other videos end with _1, _2,… when I shoot only
+        one video?</string>
+    // FAQ answer
+    <string name="fag_answer_1">1. Go to app\n2. Tap setting\n3. Choose countdown before
+        start\n4. Select time</string>
+    <string name="fag_answer_2">1. Go to app\n2. Tap video\n3. Click the video record button to
+        start\n4. Click the stop button to finish</string>
+    <string name="fag_answer_3">1. Go to app\n2. Tap setting\n3. Choose show floating button\n4.
+        Go to screen you want to capture\n5. Click the draw button\n6. Choose camera to
+        capture</string>
+    <string name="fag_answer_4">1. Go to app\n2. Tap setting\n3. Choose audio settings\n4.
+        Choose mic</string>
+    <string name="fag_answer_5">1. Go to app\n2. Tap setting\n3. Choose resolution\n4.
+        Choose corresponding resolution</string>
+    <string name="fag_answer_6">1. Go to app\n2. Tap setting\n3. Choose save video location in save options</string>
+    <string name="fag_answer_7">1. Go to app\n2. Tap setting\n3. Choose save video location in save options\n4.
+        Choose corresponding folder</string>
+    <string name="fag_answer_8">1. Because files on android devices are limited to 4 GB size, so
+        we have to create new files end with _1, _2,…\n2. If not split into multiple files, file
+        will be lost after 4 GB</string>
+
+    <string name="title_permission_storage">Storage permission</string>
+    <string name="title_permission_floating_button">Floating button</string>
+    <string name="title_permission_record_audio">Record audio</string>
+    <!--    -->
+    <string name="msg_permission_storage">Allows screen recorder to access photos, media
+        and files on your device</string>
+    <string name="msg_permission_floating_button">Allows app to draw over the other apps</string>
+    <string name="msg_permission_record_audio">Allows app to record the screen with audio</string>
+    <string name="text_btn_permission_record_audio">Allow Microphone Access</string>
+    <string name="text_btn_permission_storage_permission">Allow Storage Access</string>
+    <string name="text_btn_permission_floating_permission">Get permission</string>
+    <string name="text_start">Start</string>
+    <string name="text_next">Next</string>
+    <string name="text_recorder">Recorder</string>
+    <string name="text_home">Home</string>
+    <string name="text_draw">Draw</string>
+    <string name="text_camera">Camera</string>
+    <string name="text_exit">Exit</string>
+    <string name="text_pause">Pause</string>
+    <string name="text_stop">Stop</string>
+</resources>

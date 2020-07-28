@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">더 많은 응용 프로그램</string>
+    <string name="title_exit">지금 나가시겠습니까?</string>
+    <string name="yes">예</string>
+    <string name="no">아니</string>
+</resources>

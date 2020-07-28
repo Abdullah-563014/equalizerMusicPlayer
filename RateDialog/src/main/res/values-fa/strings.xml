@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">نرخ 5 ستاره</string>
+	<string name="good_5_stars">خوب 5 ستاره</string>
+	<string name="not_good">خوب نیست</string>
+	<string name="remind_later">یادآوری بعد</string>
+	<string name="rate_msg">من یک برنامه نویس کار بسیار سخت به شما بهترین نرم افزار رایگان. شما بررسی 5 ستاره است که ارزش بیشتر از همه پول. لطفا ارسال یک بررسی خوب در Google Play برای تشویق من است.</string>
+</resources>

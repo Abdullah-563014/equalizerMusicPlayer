@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">আরও অ্যাপ্লিকেশন</string>
+    <string name="title_exit">আপনি এখন প্রস্থান করতে চান?</string>
+    <string name="yes">হাঁ</string>
+    <string name="no">না</string>
+</resources>

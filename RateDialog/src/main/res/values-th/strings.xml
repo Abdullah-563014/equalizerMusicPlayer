@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">อัตราการ 5 ดาว</string>
+	<string name="good_5_stars">ดีเลย 5 ดาว</string>
+	<string name="not_good">ไม่ดี</string>
+	<string name="remind_later">เตือนทีหลัง</string>
+	<string name="rate_msg">ฉันเป็นโปรแกรมเมอร์ทำงานอย่างหนักเพื่อให้คุณดีที่สุดอิสระโปรแกรม ของ 5 ดาวยงานมีค่ามากกว่าทั้งเงิน ได้โปรดเขียนเป็นทวิจารณ์ในของกูเกิ้ลองเล่นเพื่อสนับสนุนฉัน</string>
+</resources>

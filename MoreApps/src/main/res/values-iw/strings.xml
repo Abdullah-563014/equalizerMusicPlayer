@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">יישומים נוספים</string>
+    <string name="title_exit">האם ברצונך לצאת כעת?</string>
+    <string name="yes">כן</string>
+    <string name="no">לא</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">より多くのアプリケーション</string>
+    <string name="title_exit">今すぐ退去しますか？</string>
+    <string name="yes">はい</string>
+    <string name="no">いいえ</string>
+</resources>

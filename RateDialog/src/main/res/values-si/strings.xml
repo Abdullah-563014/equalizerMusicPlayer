@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">අනුපාතය 5 තරු</string>
+	<string name="good_5_stars">හොඳ, 5 තරු</string>
+	<string name="not_good">හොඳ නැහැ</string>
+	<string name="remind_later">මතක් පසුව</string>
+	<string name="rate_msg">මම ක්රමලේඛකයා ඉතා වෙහෙස මහන්සි වී වැඩ කිරීමට ලබා, ඔබ හොඳම නිදහස් අයදුම් වේ. ඔබේ 5-තරු සමාලෝචන වඩා වටී සියලු මුදල්. කරුණාකර ලියන්න ලස්සන සමාලෝචන දී Google Play මට දිරිමත් කිරීම සඳහා.</string>
+</resources>

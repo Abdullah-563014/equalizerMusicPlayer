@@ -1,0 +1,187 @@
+<resources>
+
+    <string name="app_name" translatable="false">Power Audio Pro</string>
+    <string name="songs">Songs</string>
+    <string name="albums">Albums</string>
+    <string name="artists">Artists</string>
+    <string name="folders">Folders</string>
+    <string name="genres">Genres</string>
+    <string name="playlist">Playlist</string>
+    <string name="equalizer">Equalizer</string>
+    <string name="empty">Empty</string>
+    <string name="one_song">song</string>
+    <string name="n_songs">songs</string>
+    <string name="rename">Rename</string>
+    <string name="delete">Delete</string>
+    <string name="add_to_queue">Add to queue</string>
+    <string name="remove_from_queue">Remove from queue</string>
+    <string name="remove_from_playlist">Remove from playlist</string>
+    <string name="add_to_playlist">Add to playlist</string>
+    <string name="set_ringtone">Set ringtone</string>
+    <string name="details">Details</string>
+    <string name="share">Share</string>
+    <string name="information">Information</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="more_apps">More apps</string>
+    <string name="rate_app">Rate app</string>
+    <string name="share_app">Share to friends</string>
+    <string name="search">Search</string>
+    <string name="playing_queue">Playing queue</string>
+    <string name="favorite">Favorite</string>
+    <string name="msg_change_ringtone_successful">Change ringtone successful</string>
+    <string name="ok">OK</string>
+    <string name="detail">Detail</string>
+    <string name="title">Title</string>
+    <string name="album">Album</string>
+    <string name="artist">Artist</string>
+    <string name="duration">Duration</string>
+    <string name="size">Size</string>
+    <string name="path">Path</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="confirm">Confirm</string>
+    <string name="msg_confirm_delete_song">Do you want to delete this song?</string>
+    <string name="msg_confirm_delete_playlist">Do you want to delete this playlist?</string>
+    <string name="cancel">Cancel</string>
+    <string name="new_playlist">New playlist</string>
+    <string name="add_to_favorites">Add to favorites</string>
+    <string name="remove_from_favorites">Remove from favorites</string>
+    <string name="name">Name</string>
+    <string name="msg_not_be_empty">Not be empty</string>
+    <string name="msg_playlist_already_exists">Playlist already exists</string>
+    <string name="search_for_songs">Search for songs</string>
+    <string name="search_for_albums">Search for albums</string>
+    <string name="search_for_artists">Search for artists</string>
+    <string name="search_for_folders">Search for folders</string>
+    <string name="search_for_playlist">Search for playlist</string>
+    <string name="search_for_genres">Search for genres</string>
+    <string name="setting">Setting</string>
+    <string name="deny_message">If you reject permission, you can not use this app. Please turn on permissions at setting.</string>
+    <string name="msg_cannot_find_this_song">Cannot find this song, it may have been deleted</string>
+    <string name="timer">Timer turn off</string>
+    <string name="save_queue">Save queue</string>
+    <string name="action_play_pause">Play/Pause</string>
+    <string name="action_previous">Previous</string>
+    <string name="action_next">Next</string>
+    <string name="needs_access_title">Write access required</string>
+    <string name="needs_access_msg">Please select the SD card directory to grant write access</string>
+
+
+    <string name="about">About</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+
+    <!-- Example settings for Data & Sync -->
+
+    <!-- Example settings for Notifications -->
+
+    <!-- Equalizer things -->
+    <string name="preset_none">None</string>
+    <string name="preset_custom">Custom</string>
+    <string name="preset_large_hall">Large Hall</string>
+    <string name="preset_large_room">Large Room</string>
+    <string name="preset_medium_hall">Medium Hall</string>
+    <string name="preset_medium_room">Medium Room</string>
+    <string name="preset_small_room">Small Room</string>
+    <string name="preset_plate">Plate</string>
+    <string name="equ_reset_toast">Equalizer Reset Successful</string>
+    <string name="title_save_preset">Save Preset</string>
+    <string name="hint_save_preset">Enter preset name</string>
+    <string name="preset_saved_toast">Saved preset to DB</string>
+    <string name="error_valid_preset_name_toast">Enter valid name for preset.</string>
+    <string name="equalizer_titl">Equalizer</string>
+    <string name="save_preset">Save Preset</string>
+    <string name="reset_all">Reset All</string>
+    <string name="preset">Preset</string>
+    <string name="reverb">Reverb</string>
+    <string name="bass_boost">Bass boost</string>
+    <string name="virtulizer">Virtulizer</string>
+    <string name="enhancer">Master Volume Gain</string>
+
+    <!-- Tag edit -->
+    <string name="tag_edit">Edit tag info</string>
+    <string name="te_error_saving_tags">Error while saving tags!</string>
+    <string name="te_error_empty_field">Cannot leave field empty!</string>
+
+
+    <string name="artist_name">Ringdroid</string>
+    <string name="alert_title_success">Success</string>
+    <string name="alert_title_failure">Error</string>
+    <string name="alert_yes_button">Yes, please!</string>
+    <string name="alert_no_button">No, thanks.</string>
+    <string name="file_save_title">Save As:</string>
+    <string name="file_save_button_save">Save</string>
+    <string name="file_save_button_cancel">Cancel</string>
+    <string name="ringtone_type_label">Type:</string>
+
+    <string name="type_music">Music</string>
+    <string name="type_alarm">Alarm</string>
+    <string name="type_notification">Notification</string>
+    <string name="type_ringtone">Ringtone</string>
+
+    <string name="menu_save">Save</string>
+    <string name="menu_reset">Reset</string>
+    <string name="menu_about">About</string>
+
+    <string name="about_title">About Ringdroid</string>
+    <string name="about_text"><![CDATA[Use Ringdroid to edit MP3, OGG, WAV, AAC, and AMR audio files and create ringtones, alarms, and notifications from them.\n\nTip: copy audio files to your SD card using a USB cable.\n\nTip: tap anywhere on the waveform to start playing at that position.\n\nTip: while playing, tap the word Start or End to quickly set the start and end markers to the current playback time.\n\nVersion %s\n\nDeveloper: Dominic Mazzoni, Nicolas Faralli\nGraphics: Joseph Wain\nSupport and evangelizing: Eugene Koh\nEnhancements: Dan Klufas\n\nRingdroid is free software, distributed under the Apache 2.0 license.  Source code is on github.com/google/ringdroid\n]]></string>
+
+    <string name="bad_extension_error">Sorry, Ringdroid is not yet able to edit files of type</string>
+    <string name="no_extension_error">Sorry, Ringdroid can\'t edit a file if it doesn\'t have an extension like .mp3 or .wav</string>
+
+    <string name="save_success_message">Saved!</string>
+    <string name="default_ringtone_success_message">Changed default ringtone</string>
+    <string name="play_error">Unable to play this media file</string>
+    <string name="no_unique_filename">Unable to find unique filename</string>
+    <string name="record_error">Error recording audio</string>
+    <string name="too_small_error">Can\'t save a file that small, try making it longer.</string>
+    <string name="write_error">Error writing file</string>
+    <string name="read_error">Error reading file</string>
+
+    <string name="no_space_error">Your SD card is full, there is not enough space to save this file.</string>
+
+    <string name="progress_dialog_loading">Loading…</string>
+    <string name="progress_dialog_recording">Recording…</string>
+    <string name="progress_dialog_saving">Saving…</string>
+    <string name="progress_dialog_cancel">Cancel</string>
+    <string name="progress_dialog_stop">Stop</string>
+
+    <string name="time_seconds">seconds</string>
+    <string name="start_marker">Start marker</string>
+    <string name="end_marker">End marker</string>
+
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+
+    <string name="what_to_do_with_ringtone">Saved!  Make this your default ringtone?</string>
+    <string name="set_default_notification">Saved!  Make this your default notification?</string>
+
+    <string name="make_default_ringtone_button">Make Default</string>
+    <string name="do_nothing_with_ringtone_button">Close</string>
+
+    <string name="write_setting_perm_title">Permission Required</string>
+    <string name="write_setting_perm_content">Please provide write setting permission for application to change Ringtone</string>
+    <string name="action_set_as_ringtone">Set as Ringtone</string>
+
+    <string name="rewind">Rewind</string>
+    <string name="ffwd">Fast forward</string>
+
+    <!-- Labels next to the start and end time edit boxes -->
+    <string name="start_label">Start:</string>
+    <string name="end_label">End:</string>
+
+    <string name="nav_theme">Themes</string>
+    <string name="nav_sleep_timer">Sleep Timer</string>
+    <string name="select_theme">Select a theme</string>
+    <string name="select_theme_color">Color</string>
+    <string name="select_theme_human">Human</string>
+    <string name="select_theme_nature">Nature</string>
+
+    <string name="ringtone_content">Would you like to use Ringtone Cutter first?</string>
+    <string name="ringtone_positive_text">Ringtone Cutter</string>
+    <string name="ringtone_negative_text">Set Directly</string>
+
+    <!-- menu sort -->
+</resources>

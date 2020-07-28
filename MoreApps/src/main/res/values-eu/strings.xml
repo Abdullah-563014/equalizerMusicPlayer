@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">Aplikazio gehiago</string>
+    <string name="title_exit">Orain irteteko nahi duzu?</string>
+    <string name="yes">Bai</string>
+    <string name="no">Ez</string>
+</resources>

@@ -1,0 +1,60 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:orientation="vertical"
+    android:id="@id/themesMainView"
+    android:layout_width="fill_parent"
+
+    android:layout_height="fill_parent">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="center" android:layout_gravity="center" android:id="@id/layoutClose" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="3.0">
+            <ImageView android:layout_width="20.0dip" android:layout_height="20.0dip" android:src="@drawable/ic_close" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <TextView android:textSize="23.0dip" android:textColor="#ffffffff" android:id="@id/themePageHeading" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="13.0dip" android:text="@string/select_theme" android:textAlignment="center" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:layout_gravity="center"
+            android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="3.0">
+            <ImageView android:layout_width="20.0dip" android:layout_height="20.0dip" android:src="@drawable/ic_correct" android:visibility="invisible" />
+        </LinearLayout>
+    </LinearLayout>
+    <View android:background="@color/common_border_color2" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true" android:layout_weight="1.0">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <RadioGroup
+                android:id="@id/radioGroup1"
+                android:checkedButton="@id/select_theme1"
+                android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0" android:layout_alignParentTop="true" android:layout_centerHorizontal="true">
+                <RadioButton android:textColor="#ffffffff" android:id="@+id/select_theme1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/select_theme_color" />
+                <androidx.recyclerview.widget.RecyclerView android:id="@+id/rv_theme1" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                <RadioButton android:textColor="#ffffffff" android:id="@+id/select_theme2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/select_theme_human" />
+                <androidx.recyclerview.widget.RecyclerView android:id="@+id/rv_theme2" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                <RadioButton android:textColor="#ffffffff" android:id="@+id/select_theme3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/select_theme_nature" />
+                <androidx.recyclerview.widget.RecyclerView android:id="@+id/rv_theme3" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            </RadioGroup>
+        </LinearLayout>
+    </ScrollView>
+
+    <FrameLayout
+        android:layout_width="@dimen/_250sdp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_2sdp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/_16sdp"
+        android:background="@drawable/btn_white_border_back">
+
+        <TextView
+            android:id="@+id/layoutOk"
+            android:layout_width="@dimen/_250sdp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_2sdp"
+            android:gravity="center"
+            android:letterSpacing="0.04"
+            android:padding="@dimen/_8sdp"
+            android:text="@string/file_save_button_save"
+            android:textColor="#ffd5dce6"
+            android:textSize="@dimen/_14sdp"
+            android:textStyle="normal" />
+    </FrameLayout>
+</LinearLayout>

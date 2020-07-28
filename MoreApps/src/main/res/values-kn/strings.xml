@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">ಹೆಚ್ಚಿನ ಅಪ್ಲಿಕೇಶನ್ಗಳು</string>
+    <string name="title_exit">ನೀವು ಇದೀಗ ನಿರ್ಗಮಿಸಲು ಬಯಸುವಿರಾ?</string>
+    <string name="yes">ಹೌದು</string>
+    <string name="no">ಯಾವುದೇ</string>
+</resources>

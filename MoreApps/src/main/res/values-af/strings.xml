@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">Meer aansoeke</string>
+    <string name="title_exit">Wil jy nou uitstap?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Geen</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">Pris 5 stjerner</string>
+	<string name="good_5_stars">God, 5 stjerner</string>
+	<string name="not_good">Ikke bra</string>
+	<string name="remind_later">Minne senere</string>
+	<string name="rate_msg">Jeg er en programmerer jobber veldig hardt for å gi deg den beste gratis program. 5-stjerners anmeldelsen er verdt mer enn alle pengene. Skriv en fin anmeldelse i Google Play for å oppmuntre meg.</string>
+</resources>

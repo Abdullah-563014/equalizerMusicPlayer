@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">Sadzba 5 hviezdičiek</string>
+	<string name="good_5_stars">Dobrý, po 5 hviezdičiek</string>
+	<string name="not_good">Nie je dobré</string>
+	<string name="remind_later">Pripomenul, neskôr</string>
+	<string name="rate_msg">Som programátor pracuje veľmi tvrdo, aby vám najlepšie zadarmo aplikácie. 5-hviezdičkový recenzie je v hodnote viac ako všetky peniaze. Prosím napíšte pekné hodnotenie na Google Play podporujú ma.</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">تقييم 5 نجوم</string>
+	<string name="good_5_stars">جيد, 5 نجوم</string>
+	<string name="not_good">ليست جيدة</string>
+	<string name="remind_later">أذكر في وقت لاحق</string>
+	<string name="rate_msg">أنا مبرمج يعمل بجد لتعطيك أفضل تطبيق مجاني. 5-مراجعة يستحق أكثر من جميع المال. يرجى كتابة مراجعة لطيفة في Google Play إلى تشجيع لي.</string>
+</resources>

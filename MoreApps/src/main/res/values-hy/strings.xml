@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">Ավելի դիմումներ</string>
+    <string name="title_exit">Ցանկանում եք դուրս գալ հիմա:</string>
+    <string name="yes">Այո</string>
+    <string name="no">Ոչ</string>
+</resources>

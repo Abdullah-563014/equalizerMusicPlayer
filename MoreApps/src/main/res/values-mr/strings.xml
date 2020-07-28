@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">अधिक अनुप्रयोग</string>
+    <string name="title_exit">आपण आता निर्गमन करू इच्छिता?</string>
+    <string name="yes">होय</string>
+    <string name="no">नाही</string>
+</resources>

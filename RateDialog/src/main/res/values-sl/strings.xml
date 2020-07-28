@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">Stopnja 5 zvezdic</string>
+	<string name="good_5_stars">Dobro, 5 zvezdic</string>
+	<string name="not_good">Ni dobro</string>
+	<string name="remind_later">Spomnil kasneje</string>
+	<string name="rate_msg">Jaz sem programer zelo prizadevamo, da bi vam najboljše brezplačne aplikacije. Vaše 5-star pregled je vredno več kot vse denar. Prosimo, napišite lepo pregled v Google Play za spodbujanje mene.</string>
+</resources>

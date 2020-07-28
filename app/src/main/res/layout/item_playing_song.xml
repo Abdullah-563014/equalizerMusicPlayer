@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?attr/selectableItemBackground"
+    android:clickable="true"
+    android:focusable="true">
+
+    <RelativeLayout
+        android:id="@+id/rl_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/default_margin"
+        android:layout_marginTop="@dimen/default_margin">
+
+        <ImageView
+            android:id="@+id/iv_drag_handle"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centerVertical="true"
+            android:contentDescription="@null"
+            android:scaleType="centerInside"
+            app:srcCompat="@drawable/ic_drag_handle" />
+
+        <RelativeLayout
+            android:id="@+id/rl_cover_equalizer"
+            android:layout_width="@dimen/avatar_image_size"
+            android:layout_height="@dimen/avatar_image_size"
+            android:layout_alignTop="@id/iv_drag_handle"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="@dimen/default_margin"
+            android:layout_marginRight="@dimen/default_margin"
+            android:layout_toEndOf="@id/iv_drag_handle"
+            android:layout_toRightOf="@id/iv_drag_handle">
+
+            <ImageView
+                android:id="@+id/img_song_thumb"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:contentDescription="@null"
+                android:scaleType="centerCrop"
+                android:src="@drawable/default_song_cover" />
+
+            <ImageView
+                android:id="@+id/iv_equalizer"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:contentDescription="@null"
+                android:src="@drawable/ic_equalizer"
+                android:visibility="gone" />
+        </RelativeLayout>
+
+        <ImageView
+            android:id="@+id/img_more_icon"
+            android:layout_width="@dimen/avatar_image_size"
+            android:layout_height="@dimen/avatar_image_size"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="?attr/selectableItemBackground"
+            android:clickable="true"
+            android:contentDescription="@null"
+            android:focusable="true"
+            android:scaleType="centerInside"
+            app:srcCompat="@drawable/ic_drop_down"
+            android:tint="@color/textColorPrimary" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toEndOf="@id/rl_cover_equalizer"
+            android:layout_toLeftOf="@id/img_more_icon"
+            android:layout_toRightOf="@id/rl_cover_equalizer"
+            android:layout_toStartOf="@id/img_more_icon"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/song_name"
+                style="@style/PrimaryTextStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:text="Tháng tư là lời nói dối của em" />
+
+            <TextView
+                android:id="@+id/song_artist_and_duration"
+                style="@style/SecondaryTextStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                tools:text="Hà Anh Tuấn" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_below="@id/rl_content"
+        android:layout_marginEnd="@dimen/default_margin"
+        android:layout_marginLeft="112dp"
+        android:layout_marginRight="@dimen/default_margin"
+        android:layout_marginStart="112dp"
+        android:background="#7f608e95" />
+</RelativeLayout>

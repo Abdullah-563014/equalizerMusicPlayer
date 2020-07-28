@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">שיעור 5 כוכבים</string>
+	<string name="good_5_stars">טוב, 5 כוכבים</string>
+	<string name="not_good">לא טוב</string>
+	<string name="remind_later">להזכיר מאוחר יותר</string>
+	<string name="rate_msg">אני מתכנת, עובד מאוד קשה כדי לתת לך את הטוב ביותר בחינם יישום. 5 כוכבים סקירה שווה יותר מכל כסף. בבקשה לכתוב ביקורת נחמדה ב-Google Play כדי לעודד אותי.</string>
+</resources>

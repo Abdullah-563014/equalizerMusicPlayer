@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">Aplikasi lainnya</string>
+    <string name="title_exit">Apakah Anda ingin keluar sekarang?</string>
+    <string name="yes">Iya nih</string>
+    <string name="no">Tidak</string>
+</resources>

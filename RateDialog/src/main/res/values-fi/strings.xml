@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">Korko 5 tähteä</string>
+	<string name="good_5_stars">Hyvä, 5 tähdet</string>
+	<string name="not_good">Ole hyvä</string>
+	<string name="remind_later">Muistuttaa myöhemmin</string>
+	<string name="rate_msg">Olen ohjelmoija työskentelee kovasti antaa sinulle paras ilmainen sovellus. Teidän 5-tähden arvostelu on arvokkaampi kuin kaikki rahat. Kirjoita kiva arvostelu Google Play kannustaa minua.</string>
+</resources>

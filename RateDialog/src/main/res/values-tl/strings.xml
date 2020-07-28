@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rate_app">I-Rate 5 bituin</string>
+	<string name="good_5_stars">Mahusay, 5 bituin</string>
+	<string name="not_good">Hindi magandang</string>
+	<string name="remind_later">Ipaalala na mamaya</string>
+	<string name="rate_msg">Ako ay isang programmer na nagtatrabaho napakahirap upang mabigyan ka ng pinakamahusay na libreng application. Ang iyong 5-star pagsusuri ay nagkakahalaga ng higit pa kaysa sa lahat ng mga pera. Mangyaring sumulat ng isang magaling na review sa Google Play upang hikayatin sa akin.</string>
+</resources>

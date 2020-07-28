@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">Diğer uygulamalar</string>
+    <string name="title_exit">Şimdi çıkmak ister misin?</string>
+    <string name="yes">Evet</string>
+    <string name="no">Yok hayır</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_app">更多应用</string>
+    <string name="title_exit">你现在要退出吗？</string>
+    <string name="yes">是</string>
+    <string name="no">没有</string>
+</resources>
